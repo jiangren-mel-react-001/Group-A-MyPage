@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "helloworld-74de6",
+    "hosting": "helloworld-74de6",
+    "default": "helloworld-74de6"
+  }
+}
