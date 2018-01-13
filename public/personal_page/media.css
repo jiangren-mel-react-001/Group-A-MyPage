@@ -1,0 +1,21 @@
+
+
+@media(min-width: 800px){
+	.window{
+		display: flex;
+	}
+	.personalPicture{
+		width: 25%;
+		height: 25%;
+	}
+	.java{
+		display: flex;
+		height: 35%;
+		width: 45%;
+	}
+	.python{
+		display: flex;
+		height: 35%;
+		width: 45%;
+	}
+}
